@@ -1,0 +1,3 @@
+- `row` for grid system
+- `col-sm-6` apply `sm`, `md`, `lg`, etc.
+  - apply start from `sm`
